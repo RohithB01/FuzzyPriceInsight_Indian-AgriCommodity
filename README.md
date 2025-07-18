@@ -1,13 +1,6 @@
-# FuzzyPriceInsight_Indian-AgriCommodity
+# FuzzyPriceInsight: Agricultural Commodity Price Forecasting 🥔🧅🍅
 Forecasted prices of Indian agri-commodities (Potato, Onion, Tomato) using Fuzzy C-Means. Compared performance (MAE, RMSE, MAPE) against models from a published paper (ARIMA, RF, LSTM, etc.). Visualized cluster fuzziness and prediction results.
 
-# FuzzyPriceInsight: Agricultural Commodity Price Forecasting 🥔🧅🍅
-
-[![License](https://img.shields.io/badge/License-Unspecified-lightgrey)](https://github.com/RohithB01/FuzzyPriceInsight_Indian-AgriCommodity)
-
-A fuzzy logic-based approach for forecasting prices of essential Indian agricultural commodities (Potato, Onion, Tomato) using Fuzzy C-Means clustering, with comparative analysis against traditional forecasting models.
-
-![Cluster Visualization Example](images/cluster_visualization.png) <!-- Add actual image path -->
 
 ## Key Features
 - **Multi-commodity Forecasting**: Predict prices for potato, onion, and tomato
